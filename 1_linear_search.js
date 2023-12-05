@@ -1,7 +1,4 @@
-// O(n) - Linear Search
-
-// O(n) - n is the number of elements in the array, the worst case is that the target is at the end of the array or not in the array at all.
-// The best case is that the target is at the beginning of the array.
+// complexity O(n)
 
 const randomArr = [1, 2, 5, 7, 9, 10, 12, 11, 3, 4, 6, 8];
 let iterationCount = 0;
