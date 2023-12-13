@@ -20,4 +20,4 @@ const totalMoney = (n) => {
     return total;
 };
 
-console.log(totalMoney(4));
+console.log(totalMoney(10));
